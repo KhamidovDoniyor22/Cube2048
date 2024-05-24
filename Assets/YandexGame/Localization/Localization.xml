@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Key Name="settings_key">
+		<Translates>
+			<en>Settings</en>
+			<ru>Настройки</ru>
+			<es>Ajustes</es>
+			<ger>Einstellungen</ger>
+		    <tur>Ayarlar</tur>
+			<jap>設定</jap>
+
+		</Translates>
+	</Key>
+
+<Key Name="PanelAds_key">
+		<Translates>
+			<en>There's a commercial coming up. The game is on pause. After the commercials, the game will continue.</en>
+			<ru>Сейчас будет реклама. Игра на паузе. После рекламы игра продолжится.</ru>
+			<es>Se acerca un anuncio. El juego está en pausa. Después de los anuncios, el juego continuará.</es>
+			<ger>Gleich kommt ein Werbespot. Das Spiel ist auf Pause. Nach der Werbepause wird das Spiel fortgesetzt.</ger>
+		    <tur>Reklam geliyor. Oyun duraklatıldı. Reklamlardan sonra oyun devam edecek.</tur>
+			<jap>これからは広告が入ります。ゲームは一時停止されています。コマーシャルの後、ゲームは続行されます。</jap>
+		</Translates>
+	</Key>
+
+<Key Name="Sounds_key">
+		<Translates>
+			<en>Sounds</en>
+			<ru>Звуки</ru>
+			<es>Suena</es>
+			<ger>Klingt</ger>
+		    <tur>Sesler</tur>
+			<jap>サウンド</jap>
+
+		</Translates>
+	</Key>
+		
+<Key Name="Rating_key">
+		<Translates>
+			<en>Rating</en>
+			<ru>Рейтинг</ru>
+			<es>Clasificación</es>
+			<ger>Bewertung</ger>
+		    <tur>Değerlendirme</tur>
+			<jap>評価</jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="Restart_key">
+		<Translates>
+			<en>Restart</en>
+			<ru>Рестарт</ru>
+			<es>Reinicie</es>
+			<ger>Neustart</ger>
+		    <tur>Restart</tur>
+			<jap>リスタート</jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="Menu_key">
+		<Translates>
+			<en>Menu</en>
+			<ru>Меню</ru>
+			<es>Menú</es>
+			<ger>Menü</ger>
+		    <tur>Menü</tur>
+			<jap>メニュー</jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="Play_key">
+		<Translates>
+			<en>Play</en>
+			<ru>Играть</ru>
+			<es>Obra</es>
+			<ger>Stück</ger>
+			<tur>Oyun</tur>
+			<jap>演劇</jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="Game Over_key">
+		<Translates>
+			<en>Game Over</en>
+			<ru>Игра окончена</ru>
+			<es>Fin del juego</es>
+			<ger>Spiel vorbei</ger>
+			<tur>Oyun Bitti</tur>
+			<jap>ゲームオーバー</jap>
+		</Translates>
+	</Key>
+
+	<Key Name="max:_key">
+		<Translates>
+			<en>max:</en>
+			<ru>макс:</ru>
+			<es>máx:</es>
+			<ger>max:</ger>
+			<tur>maks:</tur>
+			<jap>最大:</jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+	<Key Name="">
+		<Translates>
+			<en></en>
+			<ru></ru>
+			<es></es>
+			<ger></ger>
+		    <tur></tur>
+			<jap></jap>
+
+		</Translates>
+	</Key>
+
+		
+		
+</Keys>
